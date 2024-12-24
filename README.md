@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHXxVSe8QLyEw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727455475623?e=1732752000&v=beta&t=ShVgWHC1bZSYgjk3pDOkc5PL7BkOaTtrlMqZx2xJqKE" alt="MasterHead" style="width: 100%; height: 300px;">
 <h1 align="center">Hi 👋, I'm Hammad Alam</h1>
 <h3 align="center">MERN Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
