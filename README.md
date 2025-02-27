@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-alam&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-alam" /> </p>
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://hammadalam.netlify.app/](https://hammadalam.netlify.app/)
 
