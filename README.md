@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 💻 **Full Stack Developer** building scalable and user-friendly web applications using modern technologies.
+- 💻 **Full Stack Developer** building scalable, robust, and user-friendly web applications using modern technologies.
 - 🚀 **Proficient** in Node.js, React.js, Next.js, JavaScript
 - 🔥 Passionate about creating **full-fledged, scalable** applications that deliver seamless user experiences.
 
