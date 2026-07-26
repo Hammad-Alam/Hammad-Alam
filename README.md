@@ -15,7 +15,7 @@
 - 💻 I’m a **Software Engineer** with a focus on designing and developing **scalable, robust, and user-friendly software solutions**.  
 - 🚀 Skilled in **React.js, Next.js, Node.js, JavaScript, TypeScript, MongoDB, MySQL, and Express.js**.  
 - 🔥 Passionate about turning ideas into reality through **modern technologies and clean architecture**.  
-- 🌱 Currently exploring **DevOps practices and cloud technologies**.  
+- 🌱 Currently exploring **AI and Cloud technologies**.  
 - 🤝 Open to collaborating on innovative projects that push the boundaries of technology.  
 
 ---
