@@ -12,11 +12,29 @@
 
 ## 👨‍💻 About Me
 
-- 💻 I’m a **Software Engineer** with a focus on designing and developing **scalable, robust, and user-friendly software solutions**.  
-- 🚀 Skilled in **React.js, Next.js, Node.js, JavaScript, TypeScript, MongoDB, MySQL, and Express.js**.  
-- 🔥 Passionate about turning ideas into reality through **modern technologies and clean architecture**.  
-- 🌱 Currently exploring **AI and Cloud technologies**.  
-- 🤝 Open to collaborating on innovative projects that push the boundaries of technology.  
+Hi! I’m **Hammad Noor Alam**, an **Associate Software Engineer** focused on building scalable, production-ready web applications and AI-powered solutions.
+
+* 💻 **Full-Stack:** React.js, Next.js, Node.js, Express.js, Python, FastAPI
+* ⚡ **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+* 🔧 **Backend:** Node.js, Express.js, FastAPI, REST APIs
+* 🗄️ **Databases:** PostgreSQL, MongoDB, MySQL
+* 🤖 **AI:** LLMs, OpenAI APIs, AI Agents, Agentic Workflows
+* ☁️ **Cloud & DevOps:** AWS, Vercel, Docker, Git/GitHub
+* 🧠 **Engineering:** OOP, SOLID Principles, API Integration, System Design, Agile/Scrum
+
+### 🚀 What I Build
+
+I enjoy taking products from **ideas and requirements to working, production-ready software**, with experience across frontend, backend, APIs, databases, AI integrations, testing, and deployment.
+
+One of my projects is **SQLMate**, an AI-powered SQL assistant that combines LLM capabilities with database workflows to make working with SQL more accessible.
+
+### 🌱 Currently Learning
+
+I’m currently deepening my knowledge of **Cloud technologies and AI**, with a focus on building practical, scalable, AI-powered applications.
+
+### 🤝 Let's Connect
+
+I’m always interested in building meaningful products, collaborating on interesting projects, and learning from other engineers.  
 
 ---
 
