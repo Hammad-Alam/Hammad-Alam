@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I’m **Hammad Noor Alam**, an **Software Engineer** focused on building scalable, production-ready web applications and AI-powered solutions.
+Hi! I’m **Hammad Noor Alam**, a **Software Engineer** focused on building scalable, production-ready web applications and AI-powered solutions.
 
 * 💻 **Full-Stack:** React.js, Next.js, Node.js, Express.js, Python, FastAPI
 * ⚡ **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
